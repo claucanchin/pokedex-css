@@ -1,0 +1,64 @@
+body {
+	font-family: Roboto;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	background-color: #F2F2F2;
+	border-radius: 5px;
+}
+
+.container {
+	margin: 50px 250px;
+	display: flex;
+	flex-direction: row;
+	font-family: Arial;
+}
+
+.content {
+	padding: 0px 30px;
+}
+
+.desc {
+	padding-bottom: 60px;
+}
+
+.details {
+	display: flex;
+	flex-direction: row;
+	background-color: #2FA7D8;
+	border-radius: 10px;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.deets {
+	padding: 5px 100px 5px 20px;
+}
+
+.deets > .title {
+	color: white;
+}
+
+.type {
+	padding-top: 30px;
+}
+
+.typething {
+	background-color: #9BCC50;
+	padding: 5px 40px;
+	border-radius: 5px;
+	font-size: 16px;
+	color: white;
+}
+
+.grass {
+	background-color: #9BCC50;
+}
+
+.poison {
+	background-color: #B97FC8
+}
